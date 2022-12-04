@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "28042093509",
+    "project_id": "quiz-app-rushi",
+    "storage_bucket": "quiz-app-rushi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28042093509:android:996787b0521602845f61ac",
+        "android_client_info": {
+          "package_name": "com.example.quizapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28042093509-m7smikgretqgkksu1v6hta6ehs67bnkh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.quizapp",
+            "certificate_hash": "670df2d0f90dc1b0152627fd8967c9b6dc050d01"
+          }
+        },
+        {
+          "client_id": "28042093509-qh07fpa84bdubv7mff2qo8317dqb1040.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM3nnmK04q_sgHmlzhkz1tq2wmrjL49Qg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "28042093509-qh07fpa84bdubv7mff2qo8317dqb1040.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
